@@ -1,0 +1,17 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #FFFFFF; color: #3A3D44;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Segoe UI", Roboto, sans-serif;
+  font-size: 17px; line-height: 1.75; word-break: keep-all; overflow-wrap: anywhere; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+h1 { font-size: 1.6rem; line-height: 1.35; margin: 8px 0 24px; color: #2B2A27; }
+h2 { font-size: 1.15rem; margin: 36px 0 8px; padding-top: 16px; border-top: 1px solid #E8ECF1; color: #4A5A70; }
+ul { padding-left: 1.2em; margin: 8px 0; }
+li { margin: 6px 0; }
+a { color: #4A5A70; }
+.lang { text-align: right; font-size: 0.9rem; }
+footer { margin-top: 48px; color: #6B6F78; font-size: 0.85rem; }
+.logo { display: inline-block; background: #2B2A27; color: #FFFFFF; font-weight: 700; letter-spacing: 0.04em;
+  padding: 10px 14px; border-radius: 12px; }
+.card { border: 1px solid #E8ECF1; background: #F6F8FB; border-radius: 16px; padding: 16px 20px; margin: 16px 0; }
+.card h2 { border: 0; padding: 0; margin: 0 0 4px; }
